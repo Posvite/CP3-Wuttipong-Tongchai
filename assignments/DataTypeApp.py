@@ -1,0 +1,8 @@
+print("Welcome to Jam3s Shop")
+print("-----------------------")
+print("Apple x", 3, 30,'THB -',3*30,'THB')
+print("Banana x", 5, 10,'THB - ',5*10,'THB')
+print("Cookie x", 3, 5,'THB - ',3*5,'THB')
+print("-----------------------")
+print("Total",90+50+15,'THB')
+print("Thank You")

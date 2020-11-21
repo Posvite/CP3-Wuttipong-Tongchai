@@ -1,0 +1,8 @@
+print(3.14)
+print(10+3.14)
+print(type(10+3.14))
+print(10+3.0)
+print(0.1+0.2)
+print(1/3)
+print(0.1+0.2)
+print(0.1+2.0)
